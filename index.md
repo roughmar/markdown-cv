@@ -1,48 +1,41 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Diogo Duarte's CV
 ---
-# Isaac Newton
+# Diogo Duarte
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="diogosimaoduarte@gmail.com">diogosimaoduarte@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Data Science in IE, Madrid
+### Interested in
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Starting a new career in Data Science.
+Opportunities at the intersection of data and videogames.
 
 
-## Education
+### Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004-2012, 2017-Ongoing`
+__M.Sc., Instituto Superior Técnico, Lisboa__
+Aerospace Engineering
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2012`
+__Instituto de Ciências Biomédicas Abel Salazar, Porto__
+Medicine
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2017`
+__IE Business Scholl, Madrid__
+Data Science
 
 
 
-## Awards
+### Professional Experience
 
 `2012`
 President, *Royal Society*, London, UK
