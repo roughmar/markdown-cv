@@ -41,14 +41,17 @@ __Machine Learning, Stanford University__
 ### Professional Experience
 
 `2014-2015`
+
 Junior Associate, Boston Consulting Group, Lisbon
 - Strategy consulting
 
 `2016`
+
 Junior Associate, EY, Lisbon
 - Strategy consulting
 
 `2017`
+
 Trainee, Nielsen, Madrid
 - Data Science
 - Worked with whole year data of alcoholic beverages for a major retail chain and estimated wholesale sales on new products.
