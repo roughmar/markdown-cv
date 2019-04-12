@@ -2,17 +2,20 @@
 layout: cv
 title: Diogo Duarte's CV
 ---
-# Diogo Duarte
-Physicist, Mathematician, Cambridge professor.
+# Diogo Simão Duarte
+Aerospace Engineer, Junior Data Scientist
 
 <div id="webaddress">
 <a href="diogosimaoduarte@gmail.com">diogosimaoduarte@gmail.com</a>
+  | <a href="www.linkedin.com/in/dsbduarte">www.linkedin.com/in/dsbduarte</a>
 </div>
 
 
 ## Currently
 
-Studying Data Science in IE, Madrid
+Looking to start a new carrer in Data Science
+Trying to break my limit in Kaggle
+
 ### Interested in
 
 Starting a new career in Data Science.
@@ -21,64 +24,42 @@ Opportunities at the intersection of data and videogames.
 
 ### Education
 
-`2004-2012, 2017-Ongoing`
+`2004-2012`
 __M.Sc., Instituto Superior Técnico, Lisboa__
-Aerospace Engineering
-
-`2010-2012`
-__Instituto de Ciências Biomédicas Abel Salazar, Porto__
-Medicine
+Aerospace Engineering - Specialization in Avionics
 
 `2017`
-__IE Business Scholl, Madrid__
-Data Science
+__IE Business School, Madrid__
+3 month bootcamp in Data Science - Full scholarship granted
+
+
+### Online Certificates
+__Machine Learning, Stanford University__
 
 
 
 ### Professional Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`2014-2015`
+Junior Associate, Boston Consulting Group, Lisbon
+- Strategy consulting
 
-Associate, *French Academy of Science*, Paris, France
+`2016`
+Junior Associate, EY, Lisbon
+- Strategy consulting
 
+`2017`
+Trainee, Nielsen, Madrid
+- Data Science
+- Worked with whole year data of alcoholic beverages for a major retail chain and estimated wholesale sales on new products.
+- Advised on which products should be sold, when and where, according to data given.
+- Improved inventory of existing shops and devised new placement policy for new ones.
+- Estimated gross revenue improvement of up to 22% in new products.
 
+### IT Proficiency
+R Statistics, Python, MATLAB, Simulink, C
 
-## Publications
+### Other Relevant Information
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Volunteer for Lisbon’s Zoo (2006-2008)
+- Volunteer for Portugal’s National Food Bank (2012-2017)
